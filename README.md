@@ -1,4 +1,5 @@
-# Auto_Bid<div align="center">
+# Auto_Bid
+<div align="center">
   <img src="./client/public/logo.png" width="150px" alt="Logo">
 </div>
 
